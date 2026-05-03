@@ -1,4 +1,4 @@
-# CodeVault – Dev Term Flashcards
+Interactive Flashcard Learning Platform
 
 live demo - http://localhost:5173/
 
